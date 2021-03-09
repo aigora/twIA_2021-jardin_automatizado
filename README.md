@@ -1,11 +1,11 @@
-# [Título del trabajo]
+# Jardin automatizado
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Trataremos de medir y controlar la temperatura, humedad... de un pequeño jardín.
 
 ## Integrantes del equipo
 
-[Nombres, apellidos, y usuario GitHub de los integrantes del equipo.]
+Luis Vicente Gordón---@LuisVicenteGordon
 
 ## Objetivos del trabajo
 
-[Lista de los objetivos que se persiguen con el trabajo propuesto.]
+Medir y controlar temperatura, humedad, la luz, controlar el riego mediante riego automatico e indicar cuando las condiciones no sean optimas, por ejemplo demasiada temperatura.
