@@ -5,6 +5,7 @@ Trataremos de medir y controlar la temperatura, humedad... de un pequeño jardí
 ## Integrantes del equipo
 
 Luis Vicente Gordón---@LuisVicenteGordon
+Javier Monrió García---@javiermonrio
 
 ## Objetivos del trabajo
 
